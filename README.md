@@ -1,14 +1,4 @@
-<div align="center">
 
-```
-MUHAMMAD ALI
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=SYSTEM%3A+CONNECTED;USER%3A+[Your alias];ROLE%3A+Python Developer | AI/ML Enthusiast;STATUS%3A+ONLINE" alt="Matrix Typing"/>
-
-</div>
-
----
 
 <div align="center">
 
@@ -16,14 +6,10 @@ MUHAMMAD ALI
 
 </div>
 
-<img align="right" alt="Cyberpunk GIF" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 ```bash
 > ACCESS GRANTED: Muhammad Ali
-> ALIAS: [Your alias]
-> CLEARANCE LEVEL: [Your experienceLevel]
 > LOCATION: Rawalpindi,Punjab,Pakistan
-> CORPORATION: [Your company]
 > STATUS: Aspiring AI/ML Engineer currently pursuing BSCS, focused on Machine Learning, Data Science, and Real-World AI Projects
 ```
 
@@ -114,23 +100,6 @@ This project strengthened my understanding of customer behavior analysis, classi
 </td>
 <td width="33%">
 
-#### 🔵 [Your project3Name]
-```
-STATUS: BETA
-ACCESS: LIMITED
-```
-[Your project3Description]
-
-**TECH_STACK:** `[Your project3Tech]`
-
-[![REPO](https://img.shields.io/badge/REPO-000000?style=for-the-badge&logo=github&logoColor=00FF41)]([Your project3Repo])
-[![DEMO](https://img.shields.io/badge/DEMO-FF0080?style=for-the-badge&logo=vercel&logoColor=white)]([Your project3Link])
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
@@ -146,20 +115,11 @@ PROGRAMMING_LANGUAGES:
 ```yaml
 
 
-FRONTEND_MATRIX:
-  skills: "[![My Skills](https://skillicons.dev/icons?i=js,react)](https://skillicons.dev)"
-  
-BACKEND_CORE:
-  skills: "[![My Skills](https://skillicons.dev/icons?i=python,php)](https://skillicons.dev)"
-  
-DATABASE_NODES:
-  connections: "[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)"
+
   
 DEVOPS_PIPELINE:
   automation: "My best DevOps tools include Git & GitHub for version control, and Streamlit for deploying machine learning models as interactive web applications."
   
-CLOUD_NETWORK:
-  infrastructure: "[![My Skills](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)"
 ```
 
 <div align="center">
